@@ -18,3 +18,11 @@ Today I learned:
 - Imported the math module.
 - Used the random module.
 - Explored the platform module.g
+
+## Day 3 - Packages
+
+Today I learned:
+
+- Difference between a module and a package.
+- How to import a package.
+- Used functions from Python's standard library packages.
